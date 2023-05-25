@@ -1,8 +1,3 @@
-head title {
-           color: purple;
-           background-color: black;
-           }
-
 body main {
           display: flex;
           }
@@ -19,6 +14,8 @@ main {
 main article {
              flex: 2;
              overflow-y: auto;
+             color: purple;
+             background-color: black;
              }
 
 main aside {
