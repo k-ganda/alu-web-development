@@ -18,9 +18,10 @@ main article {
              background-color: black;
              }
 
-main article h1 + h2 + h3 {
-                          color: white;
-                          }
+main article h1 {
+                color: white;
+                }
+
 main aside {
            flex: 1;
            overflow-y: auto;
